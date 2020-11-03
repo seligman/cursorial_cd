@@ -1,0 +1,15 @@
+*.py[cd]
+
+*/__pycache__/
+*/.DS_Store/
+*/.vs/
+*/.vscode/
+*/bin/
+*/obj/
+
+__pycache__/
+.DS_Store/
+.vs/
+.vscode/
+bin/
+obj/
