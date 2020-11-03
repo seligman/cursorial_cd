@@ -1,6 +1,8 @@
 #  Cursorial Change Directory
 
-A tool to expand the utility of cmd's built in `cd`:
+A tool to expand the utility of cmd's built in `cd`.
+
+[Download the main executable here](https://github.com/seligman/cursorial_cd/raw/main/binaries/CCD.zip).
 
 ![Screen Shot](binaries/example_run.png)
 
